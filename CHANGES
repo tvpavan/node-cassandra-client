@@ -1,3 +1,9 @@
+Changes with cassandra-client 0.14.8:
+
+- Make staleThreshold configurable (#87)
+- Make whiskey a dev dependency
+- Fix example in README
+
 Changes with cassandra-client 0.14.7:
 
 - Fix connection race. (#75)
